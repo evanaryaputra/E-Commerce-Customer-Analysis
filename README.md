@@ -1,0 +1,2 @@
+# E-Commerce Customer Analysis
+Data yang digunakan pada merupakan data sekunder yang diambil dari [kaggle](https://www.kaggle.com/datasets/bakitacos/indonesia-e-commerce-sales-and-shipping-20232025/data).
